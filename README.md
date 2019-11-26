@@ -96,7 +96,6 @@ cat build.log
 
 
 ## Credits
-* creator Jacob Baloul <jacob@stabilityfocus.com> @ https://stabilityfocus.com 
-* :: <a href="https://www.linkedin.com/in/jacovbaloul/" target="_blank">LinkedIn</a>
+* creator Jacob Baloul <jacob@stabilityfocus.com> | @ | https://stabilityfocus.com | @ | <a href="https://www.linkedin.com/in/jacovbaloul/" target="_blank">LinkedIn</a>
 
 
