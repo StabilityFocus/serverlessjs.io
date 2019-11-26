@@ -25,7 +25,7 @@
 * Twitter Bootstrap CSS compatable
 * Open Source
 
-## Installation
+## INSTALLATION ::
 ```
 	# Download repo
 	git clone git@github.com:StabilityFocus/serverlessjs.io.git
@@ -43,24 +43,23 @@
 	./setup.sh					# run the installer
 ```
 
-## Build
-	# VALIDATE build.conf, then when you are ready, run:
+## BUILD ::
 ```
+	# VALIDATE build.conf, then when you are ready, run:
 	./build.sh
 ```
 
 
-## Start & Customize
+## START & CUSTOMIZE ::
+```
 	# index-advanced-example.html -> index.html
 	# To start from an advanced example, run:
-```
 		cp -vpr index-advanced-example.html index.html
 		./build.sh
-```
+
 
 	# index-minimum-example.html -> index.html
 	# To start from a simplistic minimum template, run:
-```
 		cp -vpr index-minimum-example.html index.html
 		./build.sh
 ```
@@ -69,8 +68,8 @@
 
 
 ## Rinse & Repeat
-	# Edit your site code, and re run build.sh
 ```
+	# Edit your site code, and re run build.sh
 	vim index.html
 	./build.sh
 ```
@@ -80,22 +79,24 @@
 ```
 setDevindex.sh 
 debugHTTPSERVER.sh
-
+cat build.log
+```
 
 
 ## Motivation
 * https://www.stabilityfocus.com/post/how-seo-ruined-the-world
 
-## Working Example
+## Working Examples
 * https://fe.buzzwords.news
-
+* https://thatsawesome.org
+* https://serverlessjs.io
 
 
 
 
 
 ## Credits
-* creator Jacob Baloul <jacob@stabilityfocus.com> 
+* creator Jacob Baloul <jacob@stabilityfocus.com> @ https://stabilityfocus.com 
 * :: <a href="https://www.linkedin.com/in/jacovbaloul/" target="_blank">LinkedIn</a>
 
 
