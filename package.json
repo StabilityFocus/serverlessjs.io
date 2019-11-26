@@ -1,5 +1,5 @@
 {
   "devDependencies": {
-    "javascript-obfuscator": "^0.18.1"
+    "javascript-obfuscator": "^0.18.4"
   }
 }

@@ -71,8 +71,8 @@ function repoint_index_min() {
 #
 # Make sure index.html is pointing to min file
 #
-sed -i -e 's/serverlessjs-core.js/serverlessjs-core-min.js/g' index.html
-sed -i -e 's/style.css/style-min.css/g' index.html
+sed -i.bk 's/serverlessjs-core.js/serverlessjs-core-min.js/g' index.html
+sed -i.bk 's/style.css/style-min.css/g' index.html
 }
 ###
 ###
